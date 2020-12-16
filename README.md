@@ -1,4 +1,4 @@
-# movies-omdb-api
+# moviesapp
 
 ## Project setup
 ```
